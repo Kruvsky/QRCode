@@ -1,2 +1,2 @@
-# qrcode
-O Básico do QR Code.
+# qrcode simples
+O Básico do QRCode.
